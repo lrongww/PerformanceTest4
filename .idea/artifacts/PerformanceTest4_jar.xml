@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PerformanceTest4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PerformanceTest4_jar</output-path>
+    <root id="archive" name="PerformanceTest4.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="PerformanceTest4" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../maven_lib/jorphan-5.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/apache-jmeter-5.1.1/lib/ext/ApacheJMeter_ftp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/apache-jmeter-5.1.1/lib/ext/ApacheJMeter_jms.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/apache-jmeter-5.1.1/lib/ext/ApacheJMeter_tcp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/apache-jmeter-5.1.1/lib/ext/ApacheJMeter_core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/apache-jmeter-5.1.1/lib/ext/ApacheJMeter_http.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/apache-jmeter-5.1.1/lib/ext/ApacheJMeter_java.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/apache-jmeter-5.1.1/lib/ext/ApacheJMeter_jdbc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/apache-jmeter-5.1.1/lib/ext/ApacheJMeter_ldap.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/apache-jmeter-5.1.1/lib/ext/ApacheJMeter_mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/apache-jmeter-5.1.1/lib/ext/ApacheJMeter_junit.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/apache-jmeter-5.1.1/lib/ext/ApacheJMeter_native.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/apache-jmeter-5.1.1/lib/ext/ApacheJMeter_mongodb.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/apache-jmeter-5.1.1/lib/ext/ApacheJMeter_functions.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/apache-jmeter-5.1.1/lib/ext/ApacheJMeter_components.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../maven_lib/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../maven_lib/log4j/log4j/1.2.17/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../maven_lib/org/slf4j/slf4j-log4j12/1.7.22/slf4j-log4j12-1.7.22.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
